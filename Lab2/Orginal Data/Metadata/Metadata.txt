@@ -1,0 +1,10 @@
+year - rok
+artist.inverted - artysta
+track	- nazwa utworu
+time - czas utworu
+genre	- gatunek
+date.entered - data wejścia utowru
+date.peaked - data wejścia na szczyt
+
+week - tydzień
+no. - nr. na liście
